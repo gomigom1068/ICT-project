@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omelette-hrq9",
+  "private_key_id": "bec449493ee397f8c6f7c099d4f872c7fcccf3b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMhs/VmvDS/Qz+\nXRP+0t9kSkqeayd7LtszC88StqOIGS6hEeGp/O0G3ZgFZjiwR/FgRIf1+bxtkJ59\nsQs35Quk8l2d9wC6zJQ54uTlogjpabEO3EwmSnLgf+tpSEy+OZN4BQBY1V+75r8L\ndgDlfi8Q1bgciVInr8dq3V2zf7753POtoeasqkRTnbDN6FJRLAIEwiSVG+SLjc2u\n6GtzXVCPLtAvOg1A+UtNtBKzWuNUtV4Z9j/GMIFRvkp6iWBxoPSNNM1iGHFoDESB\nc2/xO/TeiOAOH1bNpuTNWCs5Z/P2ptGHek5ZICOaiSGA6OBgjuh8V4sisEqTbvGL\nyhGsGl7pAgMBAAECggEAImPltQVfSp7lrSyh9NZo3TB3wRED+7zKe1gYOs2OjE8t\nrcQ3tXFTurSOgBPq4stKDTWgxe227xZi7AAVwpGHJnZhYvMaQo6tOtmJwwn+pR7S\nOI022bZpgBHKV/LiApdkUklHAGjqdsorJAZ0yqHv0I0bLuMxNv6h0biEra7EgjdF\nlnXiDmbkljcqlvSHV+vgREqLMikw0Cf7y9Xav0iwdHjXhmjVnQFwZ8sXy6RseILg\nX9d8PQviFf2ebO5stF+v1Hy7xZQqwu12Q8FwY7VmjmAGAYONNmcYPy6d20DSzBew\nI3Z5QnzGmKQiAUNGCo3X2d3LjNLrL7CDUgrxGBOMrQKBgQDuinsxqUUVRaq6r2DJ\n39+oOy6PxR3mUxxIkclbqjkXWboapPzSbn5I+aIogsvkdvJOJKER/9R57900Eaft\n75E5W0pOxYBzh82C1P1a0a4TXoO4iT6ZYBlSm4qoqOECunt/KvnzBOTHKOu6iDHs\nqOgXKQCrTCdNGrUbnHfXBreiNQKBgQDbfwHfuQFBf1VysVjBlhLa+5pjZrHEUhtY\nesSTLtS4rHSoLSNp7UJDeu4A3orMvDhM4eW+WjLoKC+iMIaTdcrM0UYDUUNEHlkb\nj6B4Tf352fUI6UxmGoYmrkcZqv0m9W5d68sjVl5JeMg4K1WZ54uI+TYS+PhTFMgN\nhn8sD/XgZQKBgAjN/bwYhl9Bogqf/I+W/tdjz9UornDY8ntPPkJu5wqQmkjvfBF8\nWJby9+RM55+4MDtoKLXUXpBdpSmN2Uf0BsU6NGTx70rUYWaJ3AwlHyrB21TNZA0f\nOfANo7GUAjIqlfJcsLsinBspzIGnE0ir910be1XXSsAS00qAnP/H1LFdAoGBAKPt\nIcglEjQJVhaXLpM9co2LFM2h16eoLnYREhheBE57tZAYTfeBU1i0SWXqzjyDYYTB\nvORB1v0dbh2yIf+lHDWFIcW+ff80rxXvWUgf70sXJXJnUkB7FK90vvMDiZb7+1Y3\nkHmuujIi+10/t+l+TO6aOHFI8aSSw6meRgHxVY8lAoGAFuv329opUFIWs4Fg4flL\nqf24zBrIvPSa37hRSVcQJk7On4A4AKiUdhuKa/aIRf3c+z8MbXGLoGJO68QwKgKh\ndHAD2tr/MPoHvWCyHxHaajJiKf+g2YhQqb+X8/KeQzA51PFpz/WDQ5STkKXCbwFz\nnldlpUW2BNWI9x7Gd1jctfc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "omelette@omelette-hrq9.iam.gserviceaccount.com",
+  "client_id": "116918408239362045058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/omelette%40omelette-hrq9.iam.gserviceaccount.com"
+}

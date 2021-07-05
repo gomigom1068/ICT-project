@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "name": "dialogflow",
+  "main": "project1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "GOOGLE_APPLICATION_CREDENTIALS='C:/Users/김가연/Desktop/2021-1학기/ict 프로젝트/dialogflow/omelette-hrq9-bec449493ee3.json' node project1.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^4.1.1",
+    "uuid": "^8.3.2"
+  }
+}
